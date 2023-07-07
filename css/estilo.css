@@ -1,6 +1,7 @@
 /*cabeçalho*/
 header {
     background-color: aqua;
+    font-weight: bold;
 }
 
 header img {
